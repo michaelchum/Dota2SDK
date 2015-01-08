@@ -1,19 +1,19 @@
 //
-//  Dota2APITests.m
-//  Dota2APITests
+//  Dota2SDKTests.m
+//  Dota2SDKTests
 //
-//  Created by Michael Ho on 2015-01-01.
+//  Created by Michael Ho on 2015-01-07.
 //  Copyright (c) 2015 michaelchum. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface Dota2APITests : XCTestCase
+@interface Dota2SDKTests : XCTestCase
 
 @end
 
-@implementation Dota2APITests
+@implementation Dota2SDKTests
 
 - (void)setUp {
     [super setUp];

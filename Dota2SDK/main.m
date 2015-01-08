@@ -1,8 +1,8 @@
 //
 //  main.m
-//  Dota2API
+//  Dota2SDK
 //
-//  Created by Michael Ho on 2015-01-01.
+//  Created by Michael Ho on 2015-01-07.
 //  Copyright (c) 2015 michaelchum. All rights reserved.
 //
 
